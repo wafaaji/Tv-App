@@ -7,6 +7,10 @@ Application for show movies and series and actors.
 - **Gitx State Managment**
 
 <div style="display: flex; justify-content: space-between;">
+  <img src="assets/screenshots/App Tv.png" alt="Auth" width="300"/>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
   <img src="assets/screenshots/home_screen.jpg" alt="Home" width="300"/>
   <img src="assets/screenshots/loading.jpg" alt="Loading" width="300"/>
 </div>
