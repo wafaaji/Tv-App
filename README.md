@@ -4,7 +4,7 @@ Application for show movies and series and actors.
 ## Technologies Used
 
 - **Dart & Flutter**: For building the mobile application.
-- **Gitx State Managment**
+- **Bloc State Managment**
 
 <div style="display: flex; justify-content: space-between;">
   <img src="assets/screenshots/App Tv.png" alt="Auth" width="300"/>
